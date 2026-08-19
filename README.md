@@ -139,3 +139,11 @@ before doing anything.
 ## Part 6: Honest Limitations
 
 A kickoff prompt sets posture, not performance. What actually made this project's process rigorous was **sustained pushback across many turns** — catching a missing UI element in a screenshot nobody asked about, refusing to accept "it works" without real output, noticing a second unverified claim right after the first was caught. That's not something a prompt replicates by itself. Expect quality to start close to this standard and drift toward shallower defaults over a long session unless the habits in Part 4 are actively kept up — the same rules needed re-stating here even after being written down once. Also confirm real verification tools (browser MCP, running infrastructure) are actually connected in any new environment — several of the real catches in this project only happened because tool output was demanded and available.
+
+---
+
+## License & Feedback
+
+This document is released into the **Public Domain** (see `LICENSE`). You are completely free to copy, modify, and distribute it without ever needing to give me credit.
+
+However, if you find this guide useful or have suggestions on how to improve these workflows, I would love to hear your feedback so I can learn and get better too!
